@@ -1,4 +1,3 @@
-# Resume-Classifier
 # Skills prediction based on multi-label resume classification using CNN with model predictions explanation							
 This dataset contains 3 files :
 - resumes_corpus.zip : This file contains a set of resumes files with the extension ".txt" with the corresponding list of labels in a file with the extension .lab
