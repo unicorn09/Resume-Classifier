@@ -1,6 +1,6 @@
 # Skills prediction based on multi-label resume classification using CNN with model predictions explanation	
 
-Link to All codes and models:https://drive.google.com/drive/folders/1i7g8B8AORnZnpNiS7hE0rjwZmZOjEa_R?usp=sharing
+Link to All codes and models:      https://drive.google.com/drive/folders/1i7g8B8AORnZnpNiS7hE0rjwZmZOjEa_R?usp=sharing
 
 
 # Abstract
